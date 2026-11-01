@@ -1,0 +1,11 @@
+myenv/
+data/
+db/
+.env
+__pycache__/
+.ipynb_checkpoints/
+notes.md
+project_details.md
+settings.json
+reports/
+notebooks/
